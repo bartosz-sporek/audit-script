@@ -32,3 +32,7 @@ Simple script which gathers a few informations (Windows version, host name, IP a
     - using your PATH environment variable, just replace above 
       phrase with "python" word, but you have to install all dependencies globally;
 5. Save and run the "audit.bat" script!
+
+## Images
+![cmd](https://i.imgur.com/vcVILiG.jpeg)
+![cmd](https://i.imgur.com/VLMQL8f.png)
