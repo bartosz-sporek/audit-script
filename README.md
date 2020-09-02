@@ -1,10 +1,11 @@
 
 
 
-## Table of contents
+## Table of content
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
+* [Images](#images)
 
 ## General info
 Simple script which gathers a few informations (Windows version, host name, IP adress) and saves into the .xlsx file (Excel format).
