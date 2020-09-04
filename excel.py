@@ -55,6 +55,7 @@ def append_df_to_excel(filename, df, sheet_name='Sheet1', startrow=None,
 
 df = pd.DataFrame({'Windows Version': winVer(),
                     'Host Name': hostName(),
-                    'IP Adress': ipAdress()})
+                    'IP Adress': ipAdress(),
+                    'MAC Adress': getMac()})
 
 append_df_to_excel('audit.xlsx', df, header=None, index=False)
