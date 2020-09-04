@@ -19,7 +19,7 @@ Everything in "requirements.txt": DOWNLOAD -> RUN "pip install -r requirements.t
 - getmac.
 
 ## Setup
-Everything you need to do is download the <a href="https://github.com/bartosz-sporek/audit_script/releases/download/v1.0/audit_v1-0.exe">audit.exe</a> file from releases and open it! 
+Everything you need to do is download the newest version of the <a href="https://github.com/bartosz-sporek/audit-script/releases">audit.exe</a> file from releases and open it! 
 
 ## To-Do
 - [x] Add MAC gathering with adapters menu choose
