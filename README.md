@@ -17,7 +17,7 @@ Everything in "requirements.txt": DOWNLOAD -> RUN "pip install -r requirements.t
 - openpyxl.
 
 ## Setup
-Everything you need to do is download the audit_v1-x.exe file from releases and open it! 
+Everything you need to do is download the <a href="https://github.com/bartosz-sporek/audit_script/releases/download/v1.0/audit_v1-0.exe">audit.exe</a> file from releases and open it! 
 
 ## To-Do
 - [ ] Add MAC gathering with adapters menu choose
