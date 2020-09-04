@@ -28,4 +28,4 @@ Everything you need to do is download the <a href="https://github.com/bartosz-sp
 
 ## Images
 ![cmd](https://i.imgur.com/vcVILiG.jpeg)
-![Excel](https://i.imgur.com/xqvLjPE.jpg)
+![Excel](https://i.imgur.com/U0uiiVX.jpg)
