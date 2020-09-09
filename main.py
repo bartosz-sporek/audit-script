@@ -42,7 +42,9 @@ def winVer():
     winVersion = getCmdResult('systeminfo', "OS Name:", "OS Version:")
     winNum = getCmdResult('systeminfo', "Build", "OS Manufacturer:")
 
-    return [winVersion + " " + winNum]
+    finalVersion = f"{winVersion} {winNum}"
+
+    return [finalVersion]
 
 
 def hostName():
@@ -57,6 +59,9 @@ def ipAdress():
 
     ipFinal = ip.replace("(Preferred)", "")
 
-    return [ipFinal]
+    if ipFinal == "":
+        return ["No IP found, disconnected"]
+    else:
+        return [ipFinal]
 
 print("Gathering info...")

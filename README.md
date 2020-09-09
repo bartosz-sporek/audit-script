@@ -15,17 +15,21 @@ Everything in "requirements.txt": DOWNLOAD -> RUN "pip install -r requirements.t
 - Python (of course),
 - pandas,
 - openpyxl,
+- xlrd,
 - re,
+- subprocess,
 - getmac.
 
 ## Setup
-Everything you need to do is download the newest version of the <a href="https://github.com/bartosz-sporek/audit-script/releases">audit.exe</a> file from releases and open it! 
+Everything you need to do is download the newest version of the <a href="https://github.com/bartosz-sporek/audit-script/releases">audit.rar</a>, extract it and open audit.exe file! The result will be saved in audit.xlsx file.
 
 ## To-Do
 - [x] Add MAC gathering with adapters menu choose
 - [x] Shrink setup - python and dependencies to .exe file
-- [ ] Before gather info generate Excel file with headers (Windows Version, Host Name, IP Adress)
+- [x] Before gather info generate Excel file with headers (Windows Version, Host Name, IP Adress, MAC Adress)
+- [ ] Add Windows and Office (if exists) key gathering
+- [ ] Add auto-adjusting cell width
 
 ## Images
-![cmd](https://i.imgur.com/vcVILiG.jpeg)
-![Excel](https://i.imgur.com/U0uiiVX.jpg)
+![cmd](https://i.imgur.com/emkb52p.jpeg)
+![Excel](https://i.imgur.com/zpRBZSc.jpeg)
