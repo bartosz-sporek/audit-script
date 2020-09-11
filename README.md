@@ -27,8 +27,9 @@ Everything you need to do is download the newest version of the <a href="https:/
 - [x] Add MAC gathering with adapters menu choose
 - [x] Shrink setup - python and dependencies to .exe file
 - [x] Before gather info generate Excel file with headers (Windows Version, Host Name, IP Adress, MAC Adress)
-- [ ] Add Windows and Office (if exists) key gathering
+- [ ] Add Windows key gathering
 - [ ] Add auto-adjusting cell width
+- [ ] Fix error causing getting always first IP from ipconfig
 
 ## Images
 ![cmd](https://i.imgur.com/emkb52p.jpeg)
